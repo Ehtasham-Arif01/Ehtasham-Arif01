@@ -1,7 +1,7 @@
-<img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29kaW5nfGVufDB8fDB8fHww" alt="Coding Banner" width="1100" height="175">
+<img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/..." alt="Coding Banner" width="1100" height="175">
 
 <h1 align="center">Hi 👋, I'm Ehtasham Arif</h1>
-<h3 align="center">🚀 Computer Science Student at FAST NUCES | Passionate about Coding & Technology</h3>
+<h3 align="center">🚀 Computer Science Student at FAST NUCES | Passionate about AI, Full-Stack Development & Technology</h3>
 
 <img align="right" alt="Coding Animation" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
@@ -21,10 +21,10 @@
 
 ### About Me
 
-- 🌱 I’m currently pursuing a Bachelor in Computer Science at **FAST NUCES**, focused on building strong fundamentals in programming, data structures, and software development.  
-- 💻 Passionate about writing clean, efficient code and exploring new technologies in full-stack development, machine learning, and data visualization.  
-- ✍️ Actively developing projects in Python, C++, PHP, and working with tools like Git, Linux, Neo4j, and databases (MySQL, MongoDB).  
-- 🚀 Eager to collaborate on open-source projects and contribute to innovative solutions.
+- 🌱 I’m pursuing a **Bachelor in Computer Science at FAST NUCES**, strengthening fundamentals in programming, algorithms, and software development.  
+- 💻 Passionate about **AI/ML, Full-Stack Development (MERN, PHP/Laravel), Data Visualization, and Linux-based development environments**.  
+- ✍️ Experienced in **Python, C++, PHP, JavaScript**, and tools like **Git, Linux, Docker, Neo4j, MySQL, MongoDB**.  
+- 🚀 Eager to contribute to **open-source projects** and innovative tech solutions.  
 
 ### Get In Touch
 
@@ -35,43 +35,45 @@
 
 ### Skills & Tools
 
-| Languages & Frameworks       | Tools & Platforms                  | Concepts & More                  |
+| Languages & Frameworks       | Tools & Platforms                  | Concepts & Technologies          |
 |-----------------------------|----------------------------------|---------------------------------|
-| 🟦 C, C++, Python, PHP, JavaScript | 🐙 Git, 🐧 Linux, 🐳 Docker, 🐝 Bash  | 💡 OOP, Data Structures, Algorithms |
-| 🟧 HTML, CSS, Laravel        | 🗄️ SQLite, 🐬 MySQL, 🍃 MongoDB, 🌳 Neo4j | 🛠️ Software Development Practices  |
-| 🐍 Tkinter, 📊 Matplotlib, 📷 OpenCV | 🌐 NetworkX, 📈 Plotly, 📉 Seaborn  | 🗃️ Database Management, Data Visualization |
+| 🟦 C, C++, Python, PHP, JavaScript, Node.js | 🐙 Git, 🐧 Linux, 🐳 Docker, 🐝 Bash | 💡 OOP, Data Structures, Algorithms |
+| 🟧 HTML, CSS, Laravel, React, Express, MongoDB | 🗄️ SQLite, 🐬 MySQL, 🍃 MongoDB, 🌳 Neo4j | 🛠️ Software Development Practices, REST APIs |
+| 🐍 Tkinter, 📊 Matplotlib, 📷 OpenCV | 🌐 NetworkX, 📈 Plotly, 📉 Seaborn | 🤖 Machine Learning, AI, Data Visualization |
+| 🟩 MERN Stack (MongoDB, Express, React, Node) | 💻 Linux CLI, Virtualization, Cloud Basics | 🔒 Security Best Practices, System Programming |
 
 ---
 
 ### Selected Projects
 
-- **Face Mask Detection System**  
+- **Face Mask Detection System (AI/ML)**  
   Real-time mask detection using Python, OpenCV, and CNNs trained on a custom dataset.
 
-- **Restaurant Management System (Full Website)**  
-  Developed with PHP and MySQL; MVC architecture, admin/user roles, order and inventory management.
+- **Restaurant Management System (Full-Stack Web App)**  
+  Developed with PHP/MySQL and MERN stack principles; includes admin/user roles, order and inventory management.
 
 - **OS Scheduling & Deadlock Simulator**  
-  Simulates FCFS, SJF, Priority, and Round Robin scheduling with deadlock detection using Banker's Algorithm in Python and C.
+  Python & C program simulating FCFS, SJF, Priority, and Round Robin scheduling with Banker's Algorithm for deadlock detection.
 
-- **Expense Tracker Application**  
-  Desktop app for personal finance management with login system and graphical analysis built with Tkinter and SQLite.
+- **Expense Tracker Application (Desktop App)**  
+  Login-enabled personal finance tracker with Tkinter GUI, SQLite database, and interactive graphs.
 
-- **Movie Graph Analysis (Neo4j)**  
-  Created a knowledge graph from CSV data, executing Cypher queries and visualizing with NetworkX.
+- **Movie Graph Analysis (Neo4j + NetworkX)**  
+  Constructed a knowledge graph from CSV data, executed Cypher queries, and visualized relationships between movies and actors.
 
 ---
 
 ### Certifications
 
 - **Introduction to Machine Learning** – Coursera (Feb 2025)  
-- **Web Development Bootcamp** – Udemy (Dec 2024)
+- **Web Development Bootcamp** – Udemy (Dec 2024)  
+- **Linux Fundamentals & Shell Scripting** – Online (Jan 2025)  
 
 ---
 
 ### Fun Fact
 
-☕ When not coding, I enjoy discovering new coffee shops and savoring the perfect brew!
+☕ When not coding, I enjoy discovering new coffee shops and experimenting with coffee brewing methods!  
 
 ---
 
