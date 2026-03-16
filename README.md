@@ -142,7 +142,7 @@ Personal finance manager with user authentication, categorical spend tracking, a
 
 - 🧠 **Introduction to Machine Learning** — Coursera · Feb 2025
 - 🌐 **Web Development Bootcamp** — Udemy · Dec 2024
-- 🐧 **Linux Fundamentals & Shell Scripting** · Jan 2025
+- 🐧 **Linux Fundamentals & Shell Scripting** · Jan 2024
 
 ---
 
