@@ -18,7 +18,7 @@
 
 ## About Me
 
-I'm a 6th-semester Computer Science student at **FAST NUCES** (CGPA 3.25 · Dean's List 2025) focused on **AI/ML Engineering** and full-stack development. I build and deploy machine learning models, computer vision systems, and production web applications on Linux — and I'm actively seeking an **AI/ML Engineering internship** where I can contribute to real-world problems.
+I'm a 6th-semester Computer Science student at **FAST NUCES** (Dean's List 2025) focused on **AI/ML Engineering** and full-stack development. I build and deploy machine learning models, computer vision systems, and production web applications on Linux — and I'm actively seeking an **AI/ML Engineering internship** where I can contribute to real-world problems.
 
 - 🔭 Currently working on computer vision and graph-based ML projects
 - 🌱 Deepening knowledge in deep learning, MLOps, and big data pipelines
@@ -129,7 +129,7 @@ Personal finance manager with user authentication, categorical spend tracking, a
 
 | | |
 |---|---|
-| 🎓 **BSc Computer Science** | FAST NUCES · 2023 – 2027 · CGPA 3.25 / 4.0 |
+| 🎓 **BSc Computer Science** | FAST NUCES · 2023 – 2027 |
 | 🏆 **Dean's List 2025** | Top 10% of class |
 | 🤖 **AI Hackathon Finalist** | Trilliet AI Hackathon 2025 · Top teams out of 50+ |
 | 🔬 **AI Research Participant** | University AI Lab, 2024 |
