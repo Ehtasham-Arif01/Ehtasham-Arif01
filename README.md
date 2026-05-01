@@ -38,7 +38,7 @@ class EhtashamArif:
         self.name        = "Ehtasham Arif"
         self.role        = "AI / ML Engineer"
         self.university  = "FAST NUCES — Dean's List 2025 🏆"
-        self.semester    = "6th Semester, BSc Computer Science (2023–2027)"
+        self.semester    = "6th Semester, BS Computer Science (2023–2027)"
         self.location    = "Islamabad, Pakistan 🇵🇰"
 
     @property
