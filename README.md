@@ -1,13 +1,16 @@
 <div align="center">
 
-```
-███████╗██╗  ██╗████████╗ █████╗ ███████╗██╗  ██╗ █████╗ ███╗   ███╗
-██╔════╝██║  ██║╚══██╔══╝██╔══██╗██╔════╝██║  ██║██╔══██╗████╗ ████║
-█████╗  ███████║   ██║   ███████║███████╗███████║███████║██╔████╔██║
-██╔══╝  ██╔══██║   ██║   ██╔══██║╚════██║██╔══██║██╔══██║██║╚██╔╝██║
-███████╗██║  ██║   ██║   ██║  ██║███████║██║  ██║██║  ██║██║ ╚═╝ ██║
-╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
-```
+[![Zenodo](https://img.shields.io/badge/Research%20Paper-Zenodo-blue?style=for-the-badge&logo=zenodo)](https://doi.org/10.5281/zenodo.19809678)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ehtasham--arif.vercel.app-0e75b6?style=for-the-badge&logo=vercel&logoColor=white)](https://ehtasham-arif.vercel.app)
+
+<br/>
+
+<!-- ASCII banner — visible on desktop -->
+<picture>
+  <source media="(min-width: 600px)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1&pause=999999&color=0e75b6&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=130&lines=███████╗██╗++██╗████████╗+█████╗+███████╗██╗++██╗+█████╗+███╗+++███╗;██╔════╝██║++██║╚══██╔══╝██╔══██╗██╔════╝██║++██║██╔══██╗████╗+████║;█████╗++███████║+++██║+++███████║███████╗███████║███████║██╔████╔██║;██╔══╝++██╔══██║+++██║+++██╔══██║╚════██║██╔══██║██╔══██║██║╚██╔╝██║;███████╗██║++██║+++██║+++██║++██║███████║██║++██║██║++██║██║+╚═╝+██║;╚══════╝╚═╝++╚═╝+++╚═╝+++╚═╝++╚═╝╚══════╝╚═╝++╚═╝╚═╝++╚═╝╚═╝+++++╚═╝" alt="Ehtasham Arif"/>
+</picture>
+
+# Ehtasham Arif
 
 ### `AI / ML Engineer` · `CS @ FAST NUCES` · `Builder · Researcher · Open-Source Contributor`
 
@@ -312,6 +315,7 @@ Personal finance manager with user auth, categorical spend tracking, and interac
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-ehtasham--arif.vercel.app-0e75b6?style=for-the-badge&logo=vercel&logoColor=white)](https://ehtasham-arif.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehtasham-arif01/)
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:p230567@pwr.nu.edu.pk)
 [![Blog](https://img.shields.io/badge/Read_My_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.ehtashamarif.com)
