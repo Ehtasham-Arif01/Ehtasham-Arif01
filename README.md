@@ -44,13 +44,13 @@ class EhtashamArif:
     @property
     def currently(self):
         return [
+            "🤖  Building LLM & RAG pipelines and agentic workflows (LangChain, LangGraph, CrewAI) — AI/ML Intern @ Xandec",
             "🔭 Researching Vision Transformers & cross-hospital medical AI generalization",
             "🛡️  Building deepfake detection systems with EfficientNet + ELA forensics",
             "📱  Developing on-device AI photo editing apps with MIRNet + TFLite",
             "🌱  Deepening knowledge in LLMs, MLOps, and big data pipelines",
             "🤝  Teaching Assistant — Programming Fundamentals & DB Systems @ FAST NUCES",
             "✍️   Writing about AI/ML at blog.ehtashamarif.com",
-            "👥  Core Member — COLAB NU Tech Community",
         ]
 
     def contact(self):
@@ -65,9 +65,10 @@ class EhtashamArif:
 
 | Category | Technologies |
 |---|---|
-| **Core ML / DL** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **Core ML / DL** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![GANs](https://img.shields.io/badge/GANs-Generative%20Adversarial%20Networks-8A2BE2?style=flat-square) |
 | **Transformers & Vision** | ![ViT](https://img.shields.io/badge/Vision%20Transformer-ViT--B%2F16-blueviolet?style=flat-square) ![timm](https://img.shields.io/badge/timm-Pretrained%20Models-orange?style=flat-square) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![EfficientNet](https://img.shields.io/badge/EfficientNet-B0%2FB7-blue?style=flat-square) |
 | **Computer Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0.10.35-00C7B7?style=flat-square&logo=google&logoColor=white) ![CNN](https://img.shields.io/badge/CNN-Deep%20Learning-blueviolet?style=flat-square) ![TFLite](https://img.shields.io/badge/TFLite-MIRNet-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
+| **LLMs & Agentic AI** | ![LLMs](https://img.shields.io/badge/LLMs-Large%20Language%20Models-412991?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-4B8BBE?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square) ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6E56CF?style=flat-square) |
 | **NLP & Attention** | ![Transformers](https://img.shields.io/badge/Transformers-Attention%20Mechanisms-yellow?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-Text%20Processing-green?style=flat-square) ![BERT](https://img.shields.io/badge/BERT--Style-Tokenization-9cf?style=flat-square) |
 | **Research & Kaggle** | ![Kaggle](https://img.shields.io/badge/Kaggle-Competitions%20%26%20Notebooks-20BEFF?style=flat-square&logo=kaggle&logoColor=white) ![Zenodo](https://img.shields.io/badge/Zenodo-Research%20Paper-blue?style=flat-square&logo=zenodo) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
 | **Data Science** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) |
@@ -87,7 +88,7 @@ class EhtashamArif:
 | **Web Dev** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Android](https://img.shields.io/badge/Android%207%2B-3DDC84?style=flat-square&logo=android&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
 | **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white) |
-| **DevOps** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
+| **DevOps** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
 
 </div>
@@ -95,6 +96,22 @@ class EhtashamArif:
 ---
 
 ## 🚀 Featured Projects
+
+---
+
+### 👗 Body Measurements & Virtual Try-On
+
+> `PyTorch` · `SAM 3D` · `CatVTON` · `Flutter` · `Computer Vision` · `Fine-Tuning`
+
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Computer%20Vision-blueviolet?style=flat-square)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+A deep learning computer vision pipeline for body measurement estimation and virtual garment try-on, built as part of applied AI work at Xandec.
+
+- Fine-tuned **SAM 3D** for body segmentation, extracting precise body contours from images to drive measurement estimation
+- Fine-tuned **CatVTON** for realistic garment fitting, rendering clothing onto a user's body with accurate drape and fit
+- Delivered the full pipeline through a companion **Flutter** mobile app for an end-to-end try-on experience
+- Combined classical CV preprocessing with deep generative fitting for a production-oriented virtual try-on flow
 
 ---
 
@@ -241,30 +258,7 @@ Personal finance manager with user auth, categorical spend tracking, and interac
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ehtasham-arif01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehtasham-arif01&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ehtasham-arif01&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ehtasham-arif01&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
@@ -299,15 +293,6 @@ Personal finance manager with user auth, categorical spend tracking, and interac
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Ehtasham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ehtasham-arif01&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
